@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cla:MitchellClaim xmlns:cla="http://www.mitchell.com/examples/claim">
+  <cla:ClaimNumber>02c9c23bac142856018ce14a26b6c299</cla:ClaimNumber>
+  <cla:ClaimantFirstName>John</cla:ClaimantFirstName>
+  <cla:ClaimantLastName>Carter</cla:ClaimantLastName>
+  <cla:Status>CLOSED</cla:Status>
+  <cla:LossDate>2014-06-09T18:19:13.631-06:00</cla:LossDate>
+  <cla:LossInfo>
+    <cla:CauseOfLoss>Explosion</cla:CauseOfLoss>
+    <cla:ReportedDate>2014-06-10T18:19:13.676-07:00</cla:ReportedDate>
+    <cla:LossDescription>Burnt into a gas station.</cla:LossDescription>
+  </cla:LossInfo>
+  <cla:AssignedAdjusterID>12340</cla:AssignedAdjusterID>
+  <cla:Vehicles>
+    <cla:VehicleDetails>
+      <cla:Vin>1M8GDM9AXKP042780</cla:Vin>
+      <cla:ModelYear>2010</cla:ModelYear>
+      <cla:MakeDescription>BMW</cla:MakeDescription>
+      <cla:ModelDescription>Luxury</cla:ModelDescription>
+      <cla:EngineDescription>Hybrid</cla:EngineDescription>
+      <cla:ExteriorColor>Light Green</cla:ExteriorColor>
+      <cla:LicPlate>CALIFOR</cla:LicPlate>
+      <cla:LicPlateState>CA</cla:LicPlateState>
+      <cla:LicPlateExpDate>2017-04-10-07:00</cla:LicPlateExpDate>
+      <cla:DamageDescription>Everything is destroyed.</cla:DamageDescription>
+      <cla:Mileage>3216</cla:Mileage>
+    </cla:VehicleDetails>
+  </cla:Vehicles>
+</cla:MitchellClaim>

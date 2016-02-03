@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cla:MitchellClaim xmlns:cla="http://www.mitchell.com/examples/claim">
+  <cla:ClaimNumber>22c9c23bac142856018ce14a26b6c100</cla:ClaimNumber>
+  <cla:ClaimantFirstName>Steve</cla:ClaimantFirstName>
+  <cla:ClaimantLastName>Rogers</cla:ClaimantLastName>
+  <cla:Status>OPEN</cla:Status>
+  <cla:LossDate>2011-01-05T17:19:13.631-07:00</cla:LossDate>
+  <cla:LossInfo>
+    <cla:CauseOfLoss>Mechanical_Breakdown</cla:CauseOfLoss>
+    <cla:ReportedDate>2011-01-10T17:19:13.676-07:00</cla:ReportedDate>
+    <cla:LossDescription>Shoot by Drone.</cla:LossDescription>
+  </cla:LossInfo>
+  <cla:AssignedAdjusterID>12349</cla:AssignedAdjusterID>
+  <cla:Vehicles>
+    <cla:VehicleDetails>
+      <cla:Vin>1M8GDM9AXKP042780</cla:Vin>
+      <cla:ModelYear>2013</cla:ModelYear>
+      <cla:MakeDescription>Honda</cla:MakeDescription>
+      <cla:ModelDescription>SUV</cla:ModelDescription>
+      <cla:EngineDescription>EcoGas</cla:EngineDescription>
+      <cla:ExteriorColor>Deep Red</cla:ExteriorColor>
+      <cla:LicPlate>NO2CAPE</cla:LicPlate>
+      <cla:LicPlateState>MN</cla:LicPlateState>
+      <cla:LicPlateExpDate>2019-03-10-07:00</cla:LicPlateExpDate>
+      <cla:DamageDescription>Broken roof and mechanic loss.</cla:DamageDescription>
+      <cla:Mileage>9356</cla:Mileage>
+    </cla:VehicleDetails>
+  </cla:Vehicles>
+</cla:MitchellClaim>
