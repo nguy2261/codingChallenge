@@ -33,12 +33,14 @@ The web service and web application are tested via Test Client and Test Cases, w
 However, due to some technical issues I couldn't attach the unit tests for this project.
 
 Data Model: https://www.mediafire.com/?uog89n19yup3or6
+
 There will be 3 tables for data model of this project: A MitchellClaim table, a Vehicle table and a Loss Info table.
 - The MitchellClaim table includes all the attributes described in the .vsd file and it is the main table.
 - The Vehicle table will reference to MitchellClaim table based on the Claim Number and each vehicle is identified by its License plate. A Mitchell Claim can have one-to-many vehicles involved
 - The LossInfo table will also reference to MitchellClaim table by the Claim Number. A Mitchell Claim will have one-to-one Loss Info.
 
 Test Case: https://www.mediafire.com/?okb4o53wux8rjpq
+
 The Test case is displayed in an Excel file, which includes ID, name, Test step and Expected Result from the Web Service.
 
 Thank you for your time and your consideration reading my work for this coding challenge!! Have a great day!
